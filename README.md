@@ -22,7 +22,7 @@ NASA API: To Fetch planetary data
 ## How to configure
 To set up the Planetary Data Explorer locally, follow these steps:
 1.Clone the Repository:
-git clone https://github.com/your-username/planetary-data-explorer.git
+git clone https://github.com/your-username/planetary-explorer.git
 cd planetary-data-explorer
 
 ## How to Run
