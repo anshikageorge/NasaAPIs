@@ -1,6 +1,6 @@
 // script.js
 
-const apiKey = "NYbIiYGQapTGLzra43hXuzXNeCIInYNgYsKeQROs"; // Replace with your NASA API key
+const apiKey = "YOUR_API_KEY"; // Replace with your NASA API key
 const searchButton = document.getElementById("search-button");
 const searchBar = document.getElementById("search-bar");
 const resultsSection = document.getElementById("results");
