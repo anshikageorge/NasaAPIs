@@ -30,9 +30,15 @@ cd planetary-data-explorer
 
 ## How to Run
 1.Open the Project:
-Navigate to the project directory and open the index.html file in a browser. If you're using a live server, run the following command:
+
+Navigate to the project directory and open the index.html file in a browser. 
+
+If you're using a live server, run the following command:
+
 npm start
+
 The app should now be accessible at http://localhost:3000.
 
 2.View the App:
+
 Open a web browser and go to http://localhost:3000 to explore the planetary data explorer app.
