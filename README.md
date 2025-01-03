@@ -16,8 +16,11 @@ The Planetary Data Explorer gathers planetary data (such as size, distance, and 
 2. Embed video of project demo
 ## Libraries used
 HTML: For structuring the web pages.
+
 CSS: For styling and ensuring the app is visually appealing and responsive.
+
 JavaScript: For implementing interactivity, including data visualization and dynamic content loading.
+
 NASA API: To Fetch planetary data 
 ## How to configure
 To set up the Planetary Data Explorer locally, follow these steps:
