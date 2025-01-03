@@ -10,6 +10,8 @@ The Planetary Data Explorer is an interactive web application designed to allow 
 ## Team members
 1. [Anshika Mariyam George](https://github.com/anshikageorge)
 ## Link to product walkthrough
+
+https://anshikageorge.github.io/NasaAPIs/
 [link to video](Link Here)
 ## How it Works ?
 The Planetary Data Explorer gathers planetary data (such as size, distance, and temperature) and presents it to users in an engaging, interactive manner. It uses visualizations like charts and graphs to represent the data, allowing users to filter and sort planets based on different parameters. The app fetches real-time planetary data using an API and provides a smooth, responsive interface across devices.
