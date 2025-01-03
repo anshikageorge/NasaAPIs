@@ -18,8 +18,8 @@ Watch the Demo clip
 https://github.com/user-attachments/assets/293b100f-5cde-4a11-9099-09cdbeda75a6
 
 ## How it Works ?
-The Planetary Data Explorer gathers planetary data (such as size, distance, and temperature) and presents it to users in an engaging, interactive manner. It uses visualizations like charts and graphs to represent the data, allowing users to filter and sort planets based on different parameters. The app fetches real-time planetary data using an API and provides a smooth, responsive interface across devices.
-2. Embed video of project demo
+The Planetary Explorer gathers planetary data (such as size, distance, and temperature) and presents it to users in an engaging, interactive manner. It uses visualizations like charts and graphs to represent the data, allowing users to filter and sort planets based on different parameters. The app fetches real-time planetary data using an API and provides a smooth, responsive interface across devices.
+
 ## Libraries used
 HTML: For structuring the web pages.
 
